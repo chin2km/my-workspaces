@@ -1,0 +1,9 @@
+{
+  "name": "@chin2/aaa",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ramda": "0.24.0",
+    "react": "^17.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@chin2/bbb",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ramda": "0.25.0"
+  }
+}

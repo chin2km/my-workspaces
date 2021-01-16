@@ -1,0 +1,20 @@
+{
+  "name": "my-workspaces",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/bbb",
+      "packages/ccc",
+      "packages/ddd"
+    ],
+    "nohoist": [
+      "@chin2/bbb/**"
+    ]
+  },
+  "license": "MIT",
+  "scripts": {
+    "clean": "npx rimraf '**/node_modules'"
+  },
+  "dependencies": {}
+}
